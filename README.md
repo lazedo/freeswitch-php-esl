@@ -12,6 +12,7 @@ phpize
 ./configure --enable-ESL
 make
 make install
+put ESL.php in the path execution of your app
 ```
 
 ## Docker
